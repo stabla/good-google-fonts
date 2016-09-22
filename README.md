@@ -1,4 +1,6 @@
-# Definition :
+#Font-guide
+
+## Definition :
     -Serif type has extensions or strokes on the ends of the letters.
     -San-Serif does not have extensions or strokes on the ends of the letters and are used heavily for labeling, headlines and titles.
     -Script, symbols and decorative type are all styles of type categories to create a specific image or message. Weddings might lean more toward the fluid motion of a script type while a child’s birthday might be more inclined to like a decorative font from a favorite movie.
