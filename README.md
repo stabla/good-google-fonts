@@ -146,8 +146,9 @@ It's not rule, but take care of what font you're using.
         CSS : font-family: 'Alegreya', serif;
 ##### [Cardo](https://fonts.google.com/specimen/Cardo) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400, regular 400 Italic, bold 700
-        Selection URL : https://fonts.google.com/?selection.family=Cardo
         Multilanguage : YES
+        Selection URL : https://fonts.google.com/?selection.family=Cardo
+        
         Font-link : <link href="https://fonts.googleapis.com/css?family=Cardo" rel="stylesheet">
         CSS : font-family: 'Cardo', serif;
 ##### [Droid Serif](https://fonts.google.com/specimen/Droid+Serif)
