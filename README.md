@@ -21,8 +21,45 @@ It's not rule, but take care of what font you're using.
 #### Ressources used :
 - http://hellohappy.org/beautiful-web-type/ 
 - http://sachagreif.com/more-google-webfonts-that-dont-suck/
-  
-## SANS
+
+## List of fonts :
+### Sans
+[Abel](https://fonts.google.com/specimen/Abel) 
+[Amaranth](https://fonts.google.com/specimen/Amaranth)
+[Armata](https://fonts.google.com/specimen/Armata)
+[Asap](https://fonts.google.com/specimen/Asap)
+[Cabin](https://fonts.google.com/specimen/Cabin)
+[Dosis](https://fonts.google.com/specimen/Dosis)
+[Droid Sans](https://fonts.google.com/specimen/Droid+Sans)
+[Gudea](https://fonts.google.com/specimen/Gudea)
+[Lato](https://fonts.google.com/specimen/Lato)
+[Open Sans](https://fonts.google.com/specimen/Open+Sans)
+[Oswald](https://fonts.google.com/specimen/Oswald)
+[PT Sans](https://fonts.google.com/specimen/PT+Sans)
+[PT Sans Narrow](https://fonts.google.com/specimen/PT+Sans+Narrow)
+[Ropa Sans](https://fonts.google.com/specimen/Ropa+Sans)
+[Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
+
+### Serif
+[Abril Fatface](https://fonts.google.com/specimen/Abril+Fatface)
+[Alegreya](https://fonts.google.com/specimen/Alegreya)
+[Cardo](https://fonts.google.com/specimen/Cardo)
+[Droid Serif](https://fonts.google.com/specimen/Droid+Serif)
+[Gentium Book Basic](https://fonts.google.com/specimen/Gentium+Book+Basic)
+[Gravitas One](https://fonts.google.com/specimen/Gravitas+One)
+[Glegoo](https://fonts.google.com/specimen/Glagoo)
+[Lora](https://fonts.google.com/specimen/Lora)
+[Merriweather](https://fonts.google.com/specimen/Merriweather)
+[Noticia Text](https://fonts.google.com/specimen/Noticia+Text)
+[Old Standard](https://fonts.google.com/specimen/Old+Standard)
+[Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
+[Poly](https://fonts.google.com/specimen/Poly)
+[PT Mono](https://fonts.google.com/specimen/PT+Mono)
+[PT Serif](https://fonts.google.com/specimen/PT+Serif) 
+[Rokkitt](https://fonts.google.com/specimen/Rokkitt)
+[Vollkorn](https://fonts.google.com/specimen/Vollkorn)
+
+### SANS
 ##### [Abel](https://fonts.google.com/specimen/Abel) / personnality to heading 
         Weight available : regular 400
         Multilanguage : NO
@@ -129,7 +166,7 @@ It's not rule, but take care of what font you're using.
         Font-link : <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
         CSS :  font-family: 'Source Sans Pro', sans-serif;
 
-## SERIF
+### SERIF
 ##### [Abril Fatface](https://fonts.google.com/specimen/Abril+Fatface) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400
         Multilanguage : NO
