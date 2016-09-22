@@ -1,9 +1,9 @@
 #Font-guide
 
 ### Definition 
--Serif type has extensions or strokes on the ends of the letters.
--San-Serif does not have extensions or strokes on the ends of the letters and are used heavily for labeling, headlines and titles.
--Script, symbols and decorative type are all styles of type categories to create a specific image or message. Weddings might lean more toward the fluid motion of a script type while a child’s birthday might be more inclined to like a decorative font from a favorite movie.
+  - Serif type has extensions or strokes on the ends of the letters.
+  - San-Serif does not have extensions or strokes on the ends of the letters and are used heavily for labeling, headlines and titles.
+  - Script, symbols and decorative type are all styles of type categories to create a specific image or message. Weddings might lean more toward the fluid motion of a script type while a child’s birthday might be more inclined to like a decorative font from a favorite movie.
 
 ### Tips
 Prefer to use a good serif typography as Times New Roman. This type of font is easy to read for longer pieces and tends to be a little more conservative. If you do not deliberately choose another font, most programs default to the Times New Roman style.
