@@ -1,6 +1,6 @@
 #Font-guide
 
-Inspired by [HackDesign](https://www.hackdesign.org)
+Inspired by [HackDesign](https://hackdesign.org)
 
 ### Definition 
   - Serif type has extensions or strokes on the ends of the letters.
