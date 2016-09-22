@@ -21,198 +21,198 @@ It's not rule, but take care of what font you're using.
 - http://sachagreif.com/more-google-webfonts-that-dont-suck/
   
 ## SANS
-##### Abel / personnality to heading 
-    Weight available : regular 400
-    Multilanguage : NO
-    URL : https://fonts.google.com/?selection.family=Amaranth
-    Font-link : <link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
-    CSS : font-family: 'Abel', sans-serif;
-##### Amaranth 
-        Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic
-        Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Amaranth
-        Font-link : <link href="https://fonts.googleapis.com/css?family=Amaranth" rel="stylesheet">
-        CSS : font-family: 'Amaranth', sans-serif;
-##### Armata / technical-looking  
+##### [Abel](https://fonts.google.com/specimen/Abel) / personnality to heading 
         Weight available : regular 400
         Multilanguage : NO
-        URL :https://fonts.google.com/?selection.family=Armata
+        Selection URL : https://fonts.google.com/?selection.family=Amaranth
+        Font-link : <link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
+        CSS : font-family: 'Abel', sans-serif;
+##### [Amaranth](https://fonts.google.com/specimen/Amaranth) 
+        Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic
+        Multilanguage : NO
+        Selection URL : https://fonts.google.com/?selection.family=Amaranth
+        Font-link : <link href="https://fonts.googleapis.com/css?family=Amaranth" rel="stylesheet">
+        CSS : font-family: 'Amaranth', sans-serif;
+##### [Armata](https://fonts.google.com/specimen/Armata) / technical-looking  
+        Weight available : regular 400
+        Multilanguage : NO
+        Selection URL :https://fonts.google.com/?selection.family=Armata
         Font-link : <link href="https://fonts.googleapis.com/css?family=Armata" rel="stylesheet">
         CSS : font-family: 'Armata', sans-serif;
-##### Asap / (cool for italic variant) 
+##### [Asap](https://fonts.google.com/specimen/Asap) / (cool for italic variant) 
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Asap
+        Selection URL : https://fonts.google.com/?selection.family=Asap
         Font-link : <link href="https://fonts.googleapis.com/css?family=Asap" rel="stylesheet">
         CSS : font-family: 'Asap', sans-serif;
-##### Cabin 
+##### [Cabin](https://fonts.google.com/specimen/Cabin) 
         Weight available : regular 400, regular 400 Italic, medium 500, medium 500 Italic, semi-bold 600, semi-bold 600 Italic, bold 700, bold 700 Italic
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Cabin
+        Selection URL : https://fonts.google.com/?selection.family=Cabin
         Font-link : <link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet">
         CSS : font-family: 'Cabin', sans-serif;
-##### Dosis 
+##### [Dosis](https://fonts.google.com/specimen/Dosis)
         Weight available : extra-light 200, light 300, regular 400, medium 500, semi-bold 600, bold 700, extra-bold 800
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Dosis
+        Selection URL : https://fonts.google.com/?selection.family=Dosis
         Font-link : <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
         CSS : font-family: 'Dosis', sans-serif;
-##### Droid Sans 
+##### [Droid Sans](https://fonts.google.com/specimen/Droid+Sans)
         Weight available : regular 400, bold 700
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Droid+Sans
+        Selection URL : https://fonts.google.com/?selection.family=Droid+Sans
         Font-link : <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
         CSS : font-family: 'Droid Sans', sans-serif;
-##### Gudea 
+##### [Gudea](https://fonts.google.com/specimen/Gudea)
         Weight available : regular 400, regular 400 Italic, bold 700
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Gudea
+        Selection URL : https://fonts.google.com/?selection.family=Gudea
         Font-link : <link href="https://fonts.googleapis.com/css?family=Gudea" rel="stylesheet">
         CSS : font-family: 'Gudea', sans-serif;
-##### Lato / For large size, not for body copy ! *
+##### [Lato](https://fonts.google.com/specimen/Lato) / For large size, not for body copy ! [*](https://github.com/ubuwaits/beautiful-web-type)
         Multilanguage : NO
         Weight available : thin 100, thin 100 Italic, light 300, light 300 Italic, regular 400, regular 400 Italic, bold 700, bold 700 Italic, black 900, black 900 Italic
-        URL : https://fonts.google.com/?selection.family=Lato
+        Selection URL : https://fonts.google.com/?selection.family=Lato
         Font-link : <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
         CSS : font-family: 'Lato', sans-serif;
-##### Open Sans *
+##### [Open Sans](https://fonts.google.com/specimen/Open+Sans) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : light 300, light 300 Italic, regular 400, regular 400 Italic, semi-bold 600, semi-bold 600 Italic, bold 700, bold 700 Italic, extra-bold 800, extra-bold 800 Italic
         Multilanguage : YES
-        URL : https://fonts.google.com/?selection.family=Open+Sans
+        Selection URL : https://fonts.google.com/?selection.family=Open+Sans
         Font-link : <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
         CSS : font-family: 'Open Sans', sans-serif;
-##### Oswald *
+##### [Oswald](https://fonts.google.com/specimen/Oswald) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : light 300, regular 400, bold 700
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Oswald
+        Selection URL : https://fonts.google.com/?selection.family=Oswald
         Font-link : <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
         CSS : font-family: 'Oswald', sans-serif;
-##### PT Sans / font perfect for corporate sites.  *
+##### [PT Sans](https://fonts.google.com/specimen/PT+Sans) / font perfect for corporate sites.  *
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic
         Multilanguage : YES
-        URL : https://fonts.google.com/?selection.family=PT+Sans
+        Selection URL : https://fonts.google.com/?selection.family=PT+Sans
         Font-link : <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
         CSS : font-family: 'PT Sans', sans-serif;
-##### PT Sans Narrow *
+##### [PT Sans Narrow](https://fonts.google.com/specimen/PT+Sans+Narrow) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400, bold 700
         Multilanguage : YES
-        URL : https://fonts.google.com/?selection.family=PT+Sans+Narrow
+        Selection URL : https://fonts.google.com/?selection.family=PT+Sans+Narrow
         Font-link : <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet">
         CSS : font-family: 'PT Sans Narrow', sans-serif;
-##### Ropa Sans / cool for headings  
+##### [Ropa Sans](https://fonts.google.com/specimen/Ropa+Sans) / cool for headings  
         Weight available : regular 400, regular 400 Italic
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Ropa+Sans
+        Selection URL : https://fonts.google.com/?selection.family=Ropa+Sans
         Font-link : <link href="https://fonts.googleapis.com/css?family=Ropa+Sans" rel="stylesheet">
         CSS : font-family: 'Ropa Sans', sans-serif;
-##### Source Sans Pro
+##### [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
         Weight available : extra-light 200, extra-light 200 Italic, light 300, light 300 Italic, regular 400, regular 400 Italic, semi-    bold 600, semi-bold 600 Italic, bold 700, bold 700 Italic, black 900, black 900 Italic
         Multilanguage : YES
-        URL : https://fonts.google.com/?selection.family=Source+Sans+Pro
+        Selection URL : https://fonts.google.com/?selection.family=Source+Sans+Pro
         Font-link : <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
         CSS :  font-family: 'Source Sans Pro', sans-serif;
 
 ## SERIF
-##### Abril Fatface *
+##### [Abril Fatface](https://fonts.google.com/specimen/Abril+Fatface) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Abril+Fatface
+        Selection URL : https://fonts.google.com/?selection.family=Abril+Fatface
         Font-link : <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
         CSS : font-family: 'Abril Fatface', cursive;
-##### Alegreya / font for both body copy and headings. 
+##### [Alegreya](https://fonts.google.com/specimen/Alegreya) / font for both body copy and headings. 
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic, black 900, black 900 Italic
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Alegreya
+        Selection URL : https://fonts.google.com/?selection.family=Alegreya
         Font-link : <link href="https://fonts.googleapis.com/css?family=Alegreya" rel="stylesheet">
         CSS : font-family: 'Alegreya', serif;
-##### Cardo *
+##### [Cardo](https://fonts.google.com/specimen/Cardo) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400, regular 400 Italic, bold 700
-        URL : https://fonts.google.com/?selection.family=Cardo
+        Selection URL : https://fonts.google.com/?selection.family=Cardo
         Multilanguage : YES
         Font-link : <link href="https://fonts.googleapis.com/css?family=Cardo" rel="stylesheet">
         CSS : font-family: 'Cardo', serif;
-##### Droid Serif 
+##### [Droid Serif](https://fonts.google.com/specimen/Droid+Serif)
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Droid+Serif
+        Selection URL : https://fonts.google.com/?selection.family=Droid+Serif
         Font-link : <link href="https://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet">
         CSS : font-family: 'Droid Serif', serif;
-##### Gentium Book Basic *
+##### [Gentium Book Basic](https://fonts.google.com/specimen/Gentium+Book+Basic) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Gentium+Book+Basic
+        Selection URL : https://fonts.google.com/?selection.family=Gentium+Book+Basic
         Font-link : <link href="https://fonts.googleapis.com/css?family=Gentium+Book+Basic" rel="stylesheet">
         CSS : font-family: 'Gentium Book Basic', serif;
-##### Gravitas One / old school *
+##### [Gravitas One](https://fonts.google.com/specimen/Gravitas+One) / old school [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Gravitas+One
+        Selection URL : https://fonts.google.com/?selection.family=Gravitas+One
         Font-link : <link href="https://fonts.googleapis.com/css?family=Gravitas+One" rel="stylesheet">
         CSS : font-family: 'Gravitas One', cursive;
-##### Glegoo / slab industrial look  
+##### [Glegoo](https://fonts.google.com/specimen/Glagoo) / slab industrial look  
         Weight available : regular 400, bold 700
         Multilanguage : YES
-        URL : https://fonts.google.com/?selection.family=Glegoo
+        Selection URL : https://fonts.google.com/?selection.family=Glegoo
         Font-link : <link href="https://fonts.googleapis.com/css?family=Glegoo" rel="stylesheet">
         CSS : font-family: 'Glegoo', serif;
-##### Lora / perfect for body copy. 
+##### [Lora](https://fonts.google.com/specimen/Lora) / perfect for body copy. 
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Lora
+        Selection URL : https://fonts.google.com/?selection.family=Lora
         Font-link : <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
         CSS : font-family: 'Lora', serif;
-##### Merriweather  *
+##### [Merriweather](https://fonts.google.com/specimen/Merriweather)  [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : light 300, light 300 Italic, regular 400, regular 400 Italic, bold 700, bold 700 Italic, black 900, black 900 Italic
         Multilanguage : YES
-        URL : https://fonts.google.com/?selection.family=Merriweather
+        Selection URL : https://fonts.google.com/?selection.family=Merriweather
         Font-link : <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
         CSS : font-family: 'Merriweather', serif;
-##### Noticia Text / good serif option 
+##### [Noticia Text](https://fonts.google.com/specimen/Noticia+Text) / good serif option 
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic
         Multilanguage : YES
-        URL : https://fonts.google.com/?selection.family=Noticia+Text
+        Selection URL : https://fonts.google.com/?selection.family=Noticia+Text
         Font-link : <link href="https://fonts.googleapis.com/css?family=Noticia+Text" rel="stylesheet">
         CSS : font-family: 'Noticia Text', serif;
-##### Old Standard TT  *
+##### [Old Standard](https://fonts.google.com/specimen/Old+Standard) TT  [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400, regular 400 Italic, bold 700
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Old+Standard+TT
+        Selection URL : https://fonts.google.com/?selection.family=Old+Standard+TT
         Font-link : <link href="https://fonts.googleapis.com/css?family=Old+Standard+TT" rel="stylesheet">
         CSS : font-family: 'Old Standard TT', serif;
-##### Playfair Display  *
+##### [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)  [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic, black 900, black 900 Italic
         Multilanguage : YES
-        URL : https://fonts.google.com/?selection.family=Playfair+Display
+        Selection URL : https://fonts.google.com/?selection.family=Playfair+Display
         Font-link : <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
         CSS : font-family: 'Playfair Display', serif;
-##### Poly / perfect alternative to Lora 
+##### [Poly](https://fonts.google.com/specimen/Poly) / perfect alternative to Lora 
         Weight available : regular 400, regular 400 Italic
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Poly
+        Selection URL : https://fonts.google.com/?selection.family=Poly
         Font-link : <link href="https://fonts.googleapis.com/css?family=Poly" rel="stylesheet">
         CSS : font-family: 'Poly', serif;
-##### PT Mono *
+##### [PT Mono](https://fonts.google.com/specimen/PT+Mono) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400
         Multilanguage : YES
-        URL : https://fonts.google.com/?selection.family=PT+Mono
+        Selection URL : https://fonts.google.com/?selection.family=PT+Mono
         Font-link : <link href="https://fonts.googleapis.com/css?family=PT+Mono" rel="stylesheet">
         CSS : font-family: 'PT Mono', monospace;
-##### PT Serif *
+##### [PT Serif](https://fonts.google.com/specimen/PT+Serif) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic
         Multilanguage : YES
-        URL : https://fonts.google.com/?selection.family=PT+Serif
+        Selection URL : https://fonts.google.com/?selection.family=PT+Serif
         Font-link : <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
         CSS : font-family: 'PT Serif', serif;
-##### Rokkitt / slab with strong personnality 
+##### [Rokkitt](https://fonts.google.com/specimen/Rokkitt) / slab with strong personnality 
         Weight available : regular 400, bold 700
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Rokkitt
+        Selection URL : https://fonts.google.com/?selection.family=Rokkitt
         Font-link : <link href="https://fonts.googleapis.com/css?family=Rokkitt" rel="stylesheet">
         CSS : font-family: 'Rokkitt', serif;
-##### Vollkorn *
+##### [Vollkorn](https://fonts.google.com/specimen/Vollkorn) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic
         Multilanguage : NO
-        URL : https://fonts.google.com/?selection.family=Vollkorn
+        Selection URL : https://fonts.google.com/?selection.family=Vollkorn
         Font-link : <link href="https://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet">
         CSS : font-family: 'Vollkorn', serif;
 
