@@ -51,7 +51,7 @@ It's not rule, but take care of what font you're using.
 * [Lora](#user-content-lora)
 * [Merriweather](#user-content-merriweather-)
 * [Noticia Text](#user-content-noticia-text)
-* [Old Standard](#user-content-old-standard-)
+* [Old Standard TT](#user-content-old-standard-tt-)
 * [Playfair Display](#user-content-playfair-display-)
 * [Poly](#user-content-poly)
 * [PT Mono](#user-content-pt-mono-)
