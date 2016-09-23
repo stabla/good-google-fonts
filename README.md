@@ -255,7 +255,7 @@ It's not rule, but take care of what font you're using.
         
         Font-link : <link href="https://fonts.googleapis.com/css?family=Old+Standard+TT" rel="stylesheet">
         CSS : font-family: 'Old Standard TT', serif;
-##### [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)  [*](https://github.com/ubuwaits/beautiful-web-type)
+##### [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) [*](https://github.com/ubuwaits/beautiful-web-type)
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic, black 900, black 900 Italic
         Multilanguage : YES
         Selection URL : https://fonts.google.com/?selection.family=Playfair+Display
