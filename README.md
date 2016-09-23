@@ -41,7 +41,7 @@ It's not rule, but take care of what font you're using.
 * [Source Sans Pro](#user-content-source-sans-pro)
 
 ### Serif
-* [Abril Fatface](#user-content-aril-fatface-)
+* [Abril Fatface](#user-content-abril-fatface-)
 * [Alegreya](#user-content-alegreya)
 * [Cardo](#user-content-cardo-)
 * [Droid Serif](#user-content-droid-serif)
