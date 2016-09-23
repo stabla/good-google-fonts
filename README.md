@@ -24,7 +24,7 @@ It's not rule, but take care of what font you're using.
 
 ## List of fonts :
 ### Sans
-* [Abel](https://fonts.google.com/specimen/Abel)
+* [Abel](#user-content-abel)
 * [Amaranth](https://fonts.google.com/specimen/Amaranth)
 * [Armata](https://fonts.google.com/specimen/Armata)
 * [Asap](https://fonts.google.com/specimen/Asap)
