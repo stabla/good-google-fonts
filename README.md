@@ -47,7 +47,7 @@ It's not rule, but take care of what font you're using.
 * [Droid Serif](#user-content-droid-serif)
 * [Gentium Book Basic](#user-content-gentium-book-basic-)
 * [Gravitas One](#user-content-gravitas-one-)
-* [Glegoo](#user-content-glagoo)
+* [Glegoo](#user-content-glegoo)
 * [Lora](#user-content-lora)
 * [Merriweather](#user-content-merriweather-)
 * [Noticia Text](#user-content-noticia-text)
