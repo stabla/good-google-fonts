@@ -55,7 +55,7 @@ It's not rule, but take care of what font you're using.
 * [Playfair Display](#user-content-playfair-display-)
 * [Poly](#user-content-poly)
 * [PT Mono](#user-content-pt-mono-)
-* [PT Serif](#user-content-pt-serif) 
+* [PT Serif](#user-content-pt-serif-) 
 * [Rokkitt](#user-content-rokkitt)
 * [Vollkorn](#user-content-vollkorn-)
 
