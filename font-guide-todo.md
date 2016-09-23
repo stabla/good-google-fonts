@@ -16,3 +16,5 @@
     Glegoo
     Lora
     Noticia Text
+    Poly
+    Rokkitt
