@@ -87,7 +87,7 @@ It's not rule, but take care of what font you're using.
         Weight available : regular 400, regular 400 Italic, bold 700, bold 700 Italic
         Multilanguage : NO
         Selection URL : https://fonts.google.com/?selection.family=Asap
-        Perfect for : cool for italic variant
+        Perfect for : Cool for italic variant
         
         Font-link : <link href="https://fonts.googleapis.com/css?family=Asap" rel="stylesheet">
         CSS : font-family: 'Asap', sans-serif;
