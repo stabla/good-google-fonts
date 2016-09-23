@@ -63,7 +63,7 @@ It's not rule, but take care of what font you're using.
 ##### [Abel](https://fonts.google.com/specimen/Abel) / personnality to heading 
         Weight available : regular 400
         Multilanguage : NO
-        Selection URL : https://fonts.google.com/?selection.family=Amaranth
+        Selection URL : https://fonts.google.com/?selection.family=Abel
         
         Font-link : <link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
         CSS : font-family: 'Abel', sans-serif;
