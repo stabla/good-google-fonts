@@ -26,7 +26,7 @@ It's not rule, but take care of what font you're using.
 ### Sans
 * [Abel](#user-content-abel)
 * [Amaranth](#user-content-amaranth)
-* [Armata](#user-contentarmata)
+* [Armata](#user-content-armata)
 * [Asap](#user-content-asap)
 * [Cabin](#user-contentcabin)
 * [Dosis](#user-content-dosis)
