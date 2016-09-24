@@ -77,7 +77,7 @@
     }
     .dosis-section {
         background-color: #fff;
-        height: 105vh;
+        min-height: 105vh;
         .dosis {
             h1,
             h2 {
@@ -91,7 +91,7 @@
     }
     .dosis-sans-section {
         background-color: deepskyblue;
-        height: 105vh;
+        min-height: 105vh;
         .dosis-sans {
             a {
                 text-transform: uppercase;
@@ -108,7 +108,7 @@
     }
     .ropa-sans-section {
         background-color: #fff;
-        height: 105vh;
+        min-height: 105vh;
         .ropa-sans {
             padding: 120px 0 120px 0;
             a {
@@ -257,7 +257,7 @@
     }
     .glegoo-section {
         background: #8D5090;
-        height: 100vh;
+        min-height: 100vh;
         .glegoo {
             $opacity: 1 / 23;
             @for $i from 1 through 23 {
