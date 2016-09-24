@@ -33,3 +33,30 @@ a {
 ul li {
     list-style-type: none;
 }
+
+@media screen and (max-width: 480px) {
+    #title {
+        h1 {
+            font-size: 50px !important;
+        }
+        .intro p {
+            width: 88% !important;
+        }
+    }
+    
+    .section {
+        width: 95% !important;
+    }
+    
+    
+    #list .gudea-source-sans-pro-section {
+        .gudea {
+            display: block !important;
+            width: 100% !important
+        }
+        .source-sans-pro {
+            display: block !important;
+            width: 100% !important;
+        }
+    }
+}
