@@ -217,91 +217,94 @@ ul li {
 /* line 8, ../sass/components/_lists.scss */
 #list .abel-section {
   background-color: #0D4E85;
+  height: 110vh;
 }
-/* line 10, ../sass/components/_lists.scss */
+/* line 11, ../sass/components/_lists.scss */
 #list .abel-section .abel {
   color: #f6f7f8;
 }
-/* line 12, ../sass/components/_lists.scss */
+/* line 13, ../sass/components/_lists.scss */
 #list .abel-section .abel a {
   color: #f6f7f8;
-  font-size: 11.52vw;
+  font-size: 11.44vw;
   text-transform: uppercase;
 }
-/* line 19, ../sass/components/_lists.scss */
+/* line 20, ../sass/components/_lists.scss */
 #list .amaranth-section {
   background-color: #f8f8f8;
+  height: 110vh;
 }
-/* line 22, ../sass/components/_lists.scss */
+/* line 24, ../sass/components/_lists.scss */
 #list .amaranth-section .amaranth a {
   color: #6B6A6A;
   font-size: 3vw;
   font-weight: 700;
   text-transform: capitalize;
 }
-/* line 28, ../sass/components/_lists.scss */
+/* line 30, ../sass/components/_lists.scss */
 #list .amaranth-section .amaranth h3 {
   font-size: 20px;
   font-weight: 400;
   margin-bottom: 50px;
 }
-/* line 33, ../sass/components/_lists.scss */
+/* line 35, ../sass/components/_lists.scss */
 #list .amaranth-section .amaranth p {
   font-size: 14px;
   font-weight: 400;
 }
-/* line 36, ../sass/components/_lists.scss */
+/* line 38, ../sass/components/_lists.scss */
 #list .amaranth-section .amaranth p span {
   font-weight: 700;
 }
-/* line 42, ../sass/components/_lists.scss */
+/* line 44, ../sass/components/_lists.scss */
 #list .armata-section {
   background-color: floralwhite;
 }
-/* line 44, ../sass/components/_lists.scss */
+/* line 46, ../sass/components/_lists.scss */
 #list .armata-section .armata {
   text-align: justify;
 }
-/* line 46, ../sass/components/_lists.scss */
+/* line 48, ../sass/components/_lists.scss */
 #list .armata-section .armata a {
   color: inherit;
 }
-/* line 49, ../sass/components/_lists.scss */
+/* line 51, ../sass/components/_lists.scss */
 #list .armata-section .armata h2 {
   color: #363535;
   font-size: 3vw;
   text-transform: uppercase;
 }
-/* line 54, ../sass/components/_lists.scss */
+/* line 56, ../sass/components/_lists.scss */
 #list .armata-section .armata div {
   width: 65%;
   border: 1px solid black;
 }
-/* line 58, ../sass/components/_lists.scss */
+/* line 60, ../sass/components/_lists.scss */
 #list .armata-section .armata strong {
   color: black;
 }
-/* line 63, ../sass/components/_lists.scss */
+/* line 65, ../sass/components/_lists.scss */
 #list .asap-cabin-section {
   background: linear-gradient(90deg, #483d8b, #ff6347);
 }
-/* line 65, ../sass/components/_lists.scss */
+/* line 67, ../sass/components/_lists.scss */
 #list .asap-cabin-section .asap h1,
 #list .asap-cabin-section .cabin h1 {
   font-size: 11vw;
   color: #fff;
   font-weight: 400;
 }
-/* line 71, ../sass/components/_lists.scss */
+/* line 73, ../sass/components/_lists.scss */
 #list .asap-cabin-section .info {
   font-size: 12px;
   color: #f8f8f8;
 }
-/* line 76, ../sass/components/_lists.scss */
+/* line 78, ../sass/components/_lists.scss */
 #list .dosis-section {
   background-color: #fff;
+  height: 105vh;
 }
-/* line 79, ../sass/components/_lists.scss */
+/* line 82, ../sass/components/_lists.scss */
 #list .dosis-section .dosis h1,
 #list .dosis-section .dosis h2 {
   text-transform: uppercase;
@@ -310,47 +313,49 @@ ul li {
   letter-spacing: 10px;
   font-weight: 100;
 }
-/* line 89, ../sass/components/_lists.scss */
+/* line 92, ../sass/components/_lists.scss */
 #list .dosis-sans-section {
   background-color: deepskyblue;
+  height: 105vh;
 }
-/* line 92, ../sass/components/_lists.scss */
+/* line 96, ../sass/components/_lists.scss */
 #list .dosis-sans-section .dosis-sans a {
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 10px;
 }
-/* line 96, ../sass/components/_lists.scss */
+/* line 100, ../sass/components/_lists.scss */
 #list .dosis-sans-section .dosis-sans a h1 {
   font-size: 10vw;
 }
-/* line 99, ../sass/components/_lists.scss */
+/* line 103, ../sass/components/_lists.scss */
 #list .dosis-sans-section .dosis-sans a h2 {
   font-size: 8vw;
 }
-/* line 105, ../sass/components/_lists.scss */
+/* line 109, ../sass/components/_lists.scss */
 #list .ropa-sans-section {
   background-color: #fff;
+  height: 105vh;
 }
-/* line 107, ../sass/components/_lists.scss */
+/* line 112, ../sass/components/_lists.scss */
 #list .ropa-sans-section .ropa-sans {
   padding: 120px 0 120px 0;
 }
-/* line 109, ../sass/components/_lists.scss */
+/* line 114, ../sass/components/_lists.scss */
 #list .ropa-sans-section .ropa-sans a {
   color: #5D607F;
 }
-/* line 111, ../sass/components/_lists.scss */
+/* line 116, ../sass/components/_lists.scss */
 #list .ropa-sans-section .ropa-sans a h2 {
   text-align: center;
   font-size: 10vw;
 }
-/* line 115, ../sass/components/_lists.scss */
+/* line 120, ../sass/components/_lists.scss */
 #list .ropa-sans-section .ropa-sans a h4 {
   text-align: center;
   font-size: 5vw;
 }
-/* line 118, ../sass/components/_lists.scss */
+/* line 123, ../sass/components/_lists.scss */
 #list .ropa-sans-section .ropa-sans a h4:before {
   margin-top: 3%;
   margin-left: -19%;
@@ -360,7 +365,7 @@ ul li {
   width: 18%;
   background-color: #D6E1E5;
 }
-/* line 127, ../sass/components/_lists.scss */
+/* line 132, ../sass/components/_lists.scss */
 #list .ropa-sans-section .ropa-sans a h4:after {
   position: absolute;
   content: " ";
@@ -370,35 +375,35 @@ ul li {
   margin-left: 10px;
   background-color: #D6E1E5;
 }
-/* line 138, ../sass/components/_lists.scss */
+/* line 143, ../sass/components/_lists.scss */
 #list .ropa-sans-section .ropa-sans .section-text {
   overflow: auto;
   margin: 50px auto;
   width: 90%;
 }
-/* line 143, ../sass/components/_lists.scss */
+/* line 148, ../sass/components/_lists.scss */
 #list .ropa-sans-section .ropa-sans .paragraph {
   padding: 0 20px;
   display: inline-block;
   float: left;
   width: 50%;
 }
-/* line 152, ../sass/components/_lists.scss */
+/* line 157, ../sass/components/_lists.scss */
 #list .gudea-source-sans-pro-section .gudea-source-sans-pro {
   width: 100%;
   display: table;
 }
-/* line 156, ../sass/components/_lists.scss */
+/* line 161, ../sass/components/_lists.scss */
 #list .gudea-source-sans-pro-section .gudea,
 #list .gudea-source-sans-pro-section .source-sans-pro {
   font-size: 1.618em;
 }
-/* line 158, ../sass/components/_lists.scss */
+/* line 163, ../sass/components/_lists.scss */
 #list .gudea-source-sans-pro-section .gudea a,
 #list .gudea-source-sans-pro-section .source-sans-pro a {
   text-transform: uppercase;
 }
-/* line 163, ../sass/components/_lists.scss */
+/* line 168, ../sass/components/_lists.scss */
 #list .gudea-source-sans-pro-section .gudea {
   width: 40%;
   display: table-cell;
@@ -406,11 +411,11 @@ ul li {
   text-align: left;
   background-color: #9954FF;
 }
-/* line 169, ../sass/components/_lists.scss */
+/* line 174, ../sass/components/_lists.scss */
 #list .gudea-source-sans-pro-section .gudea a {
   color: #6D30C7;
 }
-/* line 173, ../sass/components/_lists.scss */
+/* line 178, ../sass/components/_lists.scss */
 #list .gudea-source-sans-pro-section .source-sans-pro {
   width: 60%;
   padding: 120px 50px;
@@ -418,59 +423,60 @@ ul li {
   display: table-cell;
   background-color: #6D30C7;
 }
-/* line 179, ../sass/components/_lists.scss */
+/* line 184, ../sass/components/_lists.scss */
 #list .gudea-source-sans-pro-section .source-sans-pro a {
   color: #9954ff;
 }
-/* line 184, ../sass/components/_lists.scss */
+/* line 189, ../sass/components/_lists.scss */
 #list .alegreya-section {
   background-color: #131319;
 }
-/* line 187, ../sass/components/_lists.scss */
+/* line 192, ../sass/components/_lists.scss */
 #list .alegreya-section .alegreya a h1 {
   color: #fff;
   font-size: 4vw;
   text-align: center;
 }
-/* line 194, ../sass/components/_lists.scss */
+/* line 199, ../sass/components/_lists.scss */
 #list .droid-serif-section {
   background-color: #fff;
+  height: 105vh;
 }
-/* line 198, ../sass/components/_lists.scss */
+/* line 204, ../sass/components/_lists.scss */
 #list .droid-serif-section .droid-serif a h1 {
   font-size: 3.1415rem;
   letter-spacing: 11px;
   margin-bottom: 50px;
 }
-/* line 205, ../sass/components/_lists.scss */
+/* line 211, ../sass/components/_lists.scss */
 #list .droid-serif-section .droid-serif a h1 span:nth-child(1) {
   color: #227F4F;
 }
-/* line 205, ../sass/components/_lists.scss */
+/* line 211, ../sass/components/_lists.scss */
 #list .droid-serif-section .droid-serif a h1 span:nth-child(2) {
   color: #3CDE5B;
 }
-/* line 205, ../sass/components/_lists.scss */
+/* line 211, ../sass/components/_lists.scss */
 #list .droid-serif-section .droid-serif a h1 span:nth-child(3) {
   color: #4FC73F;
 }
-/* line 205, ../sass/components/_lists.scss */
+/* line 211, ../sass/components/_lists.scss */
 #list .droid-serif-section .droid-serif a h1 span:nth-child(4) {
   color: #86DE3C;
 }
-/* line 205, ../sass/components/_lists.scss */
+/* line 211, ../sass/components/_lists.scss */
 #list .droid-serif-section .droid-serif a h1 span:nth-child(5) {
   color: #B6D439;
 }
-/* line 210, ../sass/components/_lists.scss */
+/* line 216, ../sass/components/_lists.scss */
 #list .droid-serif-section .droid-serif a h2 {
   color: #B6D439;
 }
-/* line 216, ../sass/components/_lists.scss */
+/* line 222, ../sass/components/_lists.scss */
 #list .lora-poly-section {
   background: linear-gradient(34deg, #9C7063 23%, #A90001 149%);
 }
-/* line 220, ../sass/components/_lists.scss */
+/* line 226, ../sass/components/_lists.scss */
 #list .lora-poly-section .lora a h1 {
   font-size: 9vw;
   color: #662324;
@@ -478,30 +484,30 @@ ul li {
   word-break: break-all;
   text-align: center;
 }
-/* line 230, ../sass/components/_lists.scss */
+/* line 236, ../sass/components/_lists.scss */
 #list .lora-poly-section .poly a h1 {
   text-align: center;
   font-size: 10vw;
   color: #fff;
   text-transform: uppercase;
 }
-/* line 238, ../sass/components/_lists.scss */
+/* line 244, ../sass/components/_lists.scss */
 #list .lora-poly-section .poly a h1 span:nth-child(1) {
   font-weight: bolder;
 }
-/* line 238, ../sass/components/_lists.scss */
+/* line 244, ../sass/components/_lists.scss */
 #list .lora-poly-section .poly a h1 span:nth-child(2) {
   font-weight: 700;
 }
-/* line 238, ../sass/components/_lists.scss */
+/* line 244, ../sass/components/_lists.scss */
 #list .lora-poly-section .poly a h1 span:nth-child(3) {
   font-weight: bold;
 }
-/* line 238, ../sass/components/_lists.scss */
+/* line 244, ../sass/components/_lists.scss */
 #list .lora-poly-section .poly a h1 span:nth-child(4) {
   font-weight: 400;
 }
-/* line 243, ../sass/components/_lists.scss */
+/* line 249, ../sass/components/_lists.scss */
 #list .lora-poly-section .poly a h2 {
   text-align: center;
   font-size: 1,618em;
@@ -509,132 +515,135 @@ ul li {
   text-transform: uppercase;
   font-weight: bold;
 }
-/* line 252, ../sass/components/_lists.scss */
+/* line 258, ../sass/components/_lists.scss */
 #list .glegoo-section {
   background: #8D5090;
+  height: 100vh;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(1) {
   opacity: 0.04348;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(2) {
   opacity: 0.08696;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(3) {
   opacity: 0.13043;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(4) {
   opacity: 0.17391;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(5) {
   opacity: 0.21739;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(6) {
   opacity: 0.26087;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(7) {
   opacity: 0.30435;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(8) {
   opacity: 0.34783;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(9) {
   opacity: 0.3913;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(10) {
   opacity: 0.43478;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(11) {
   opacity: 0.47826;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(12) {
   opacity: 0.52174;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(13) {
   opacity: 0.56522;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(14) {
   opacity: 0.6087;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(15) {
   opacity: 0.65217;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(16) {
   opacity: 0.69565;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(17) {
   opacity: 0.73913;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(18) {
   opacity: 0.78261;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(19) {
   opacity: 0.82609;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(20) {
   opacity: 0.86957;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(21) {
   opacity: 0.91304;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(22) {
   opacity: 0.95652;
 }
-/* line 257, ../sass/components/_lists.scss */
+/* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(23) {
   opacity: 1;
 }
-/* line 261, ../sass/components/_lists.scss */
+/* line 268, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo h1 {
   font-size: 3.141591em;
 }
-/* line 264, ../sass/components/_lists.scss */
+/* line 271, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo h1,
 #list .glegoo-section .glegoo h2 {
   color: #F6C5C9;
 }
-/* line 270, ../sass/components/_lists.scss */
+/* line 277, ../sass/components/_lists.scss */
 #list .noticia-text-section {
   background: #f9f9f9;
 }
-/* line 272, ../sass/components/_lists.scss */
+/* line 279, ../sass/components/_lists.scss */
 #list .noticia-text-section a {
   color: #242D52;
 }
-/* line 274, ../sass/components/_lists.scss */
+/* line 281, ../sass/components/_lists.scss */
 #list .noticia-text-section a h1 {
   font-size: 3.1415em;
 }
-/* line 280, ../sass/components/_lists.scss */
+/* line 287, ../sass/components/_lists.scss */
 #list .rokkitt-section {
+  height: 100vh;
   background-color: #fff;
 }
-/* line 283, ../sass/components/_lists.scss */
+/* line 291, ../sass/components/_lists.scss */
 #list .rokkitt-section .rokkitt a {
   text-align: center;
+  color: black;
 }
-/* line 285, ../sass/components/_lists.scss */
+/* line 294, ../sass/components/_lists.scss */
 #list .rokkitt-section .rokkitt a h2 {
   margin-bottom: 42px;
   border-bottom: 1px solid black;
