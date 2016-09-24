@@ -302,7 +302,7 @@ ul li {
 /* line 78, ../sass/components/_lists.scss */
 #list .dosis-section {
   background-color: #fff;
-  height: 105vh;
+  min-height: 105vh;
 }
 /* line 82, ../sass/components/_lists.scss */
 #list .dosis-section .dosis h1,
@@ -316,7 +316,7 @@ ul li {
 /* line 92, ../sass/components/_lists.scss */
 #list .dosis-sans-section {
   background-color: deepskyblue;
-  height: 105vh;
+  min-height: 105vh;
 }
 /* line 96, ../sass/components/_lists.scss */
 #list .dosis-sans-section .dosis-sans a {
@@ -335,7 +335,7 @@ ul li {
 /* line 109, ../sass/components/_lists.scss */
 #list .ropa-sans-section {
   background-color: #fff;
-  height: 105vh;
+  min-height: 105vh;
 }
 /* line 112, ../sass/components/_lists.scss */
 #list .ropa-sans-section .ropa-sans {
@@ -518,7 +518,7 @@ ul li {
 /* line 258, ../sass/components/_lists.scss */
 #list .glegoo-section {
   background: #8D5090;
-  height: 100vh;
+  min-height: 100vh;
 }
 /* line 264, ../sass/components/_lists.scss */
 #list .glegoo-section .glegoo span:nth-child(1) {
