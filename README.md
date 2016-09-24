@@ -16,7 +16,7 @@ Use consistency in your layouts. It means same font through your piece.
 
 A website with bad font will be ugly website. But it's about words too.
 
-It's not rule, but take care of what font you're using. 
+It's not an univeral rule, but take care of what font you're using. 
 
 #### Ressources used :
 - http://hellohappy.org/beautiful-web-type/
