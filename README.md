@@ -2,7 +2,7 @@
 
 Inspired by [HackDesign](https://hackdesign.org)
 
-Good-google-fonts : https://idkn.github.io/good-google-fonts/ 
+Good-google-fonts in action : https://idkn.github.io/good-google-fonts/ 
 
 ### Definition 
   - Serif type has extensions or strokes on the ends of the letters.
