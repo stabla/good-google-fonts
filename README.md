@@ -303,4 +303,4 @@ It's not rule, but take care of what font you're using.
 ## Notes
 * **: You can view this font already on [@ubuwaits](https://www.github.com/ubuwaits)'s project : [beautiful-web-type] (https://github.com/ubuwaits/beautiful-web-type). To check his samples : [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)*
 
-For what's left, see here :
+For what's left, see here : https://idkn.github.io/good-google-fonts/
