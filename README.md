@@ -2,6 +2,8 @@
 
 Inspired by [HackDesign](https://hackdesign.org)
 
+Good-google-fonts in action : https://idkn.github.io/good-google-fonts/ 
+
 ### Definition 
   - Serif type has extensions or strokes on the ends of the letters.
   - San-Serif does not have extensions or strokes on the ends of the letters and are used heavily for labeling, headlines and titles.
