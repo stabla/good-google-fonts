@@ -1,0 +1,44 @@
+#title {
+    padding: 125px 0 250px 0;
+    h1 {
+        font-size: 8vw;
+    }
+    a {
+        color: #a90001;
+        transition: all 0.5s ease;
+        &:hover {
+            color: #662324;
+        }
+    }
+    .intro p {
+        width: 62%;
+    }
+    .intro ul {
+        text-align: right;
+    }
+    li {
+        margin: 8px 0;
+        a {
+            color: none;
+            font-size: 14px;
+            text-transform: uppercase;
+            font-weight: 200;
+            transition: all 0.5s ease;
+            &:hover {
+                color: #662324;
+            }
+        }
+    }
+}
+
+.footer {
+    background-color: #242d52;
+    padding: 20px 70px;
+    h1 {
+        font-size: 18px;
+        color: #fff;
+        a {
+            color: #d6e1e5;
+        }
+    }
+}
