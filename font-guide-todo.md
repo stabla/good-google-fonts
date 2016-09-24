@@ -1,4 +1,4 @@
-# Fonts which is not treated by [Beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type)
+# Fonts not treated by [Beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type)
 
 ## Sans
     Abel
