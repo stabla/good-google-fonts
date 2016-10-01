@@ -1,6 +1,6 @@
 #Font-guide
 
-Inspired by [HackDesign](https://hackdesign.org)
+Inspired by [HackDesign](https://hackdesign.org) and [@ubuwaits](https://www.github.com/ubuwaits)'s project : [beautiful-web-type] (https://github.com/ubuwaits/beautiful-web-type)
 
 Good-google-fonts in action : https://idkn.github.io/good-google-fonts/ 
 
