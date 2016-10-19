@@ -43,20 +43,96 @@ ul li {
             width: 88% !important;
         }
     }
-    
     .section {
-        width: 95% !important;
+        width: 100% !important;
+        padding: 120px 15px !important;
     }
-    
-    
-    #list .gudea-source-sans-pro-section {
-        .gudea {
-            display: block !important;
-            width: 100% !important
+    #list {
+        .abel-section .abel a {
+            font-size: 34vw !important;
         }
-        .source-sans-pro {
-            display: block !important;
-            width: 100% !important;
+        .amaranth-section .amaranth a {
+            font-size: 23px !important;
+        }
+        .asap-cabin-section .asap h1,
+        .asap-cabin-section .cabin h1 {
+            font-size: 23vw !important;
+        }
+        .droid-serif-section .droid-serif a {
+            h1 {
+                font-size: 1.8rem !important;
+            }
+            h2 {
+                font-size: 0.9rem !important;
+            }
+        }
+        .armata-section .armata h2 {
+            font-size: 8vw !important;
+        }
+        .ropa-sans-section .ropa-sans {
+            h2 {
+                font-size: 20vw !important;
+            }
+            h4 {
+                font-size: 7vw !important;
+            }
+            .paragraph {
+                display: block !important;
+                float: inherit !important;
+                width: 100% !important;
+            }
+        }
+        .alegreya-section .alegreya a h1 {
+            font-size: 16vw !important;
+            margin: 21vh 0 !important;
+        }
+        .lora-poly-section .lora a h1 {
+            font-size: 2.3rem !important;
+            letter-spacing: 9px !important;
+        }
+        .lora-poly-section .poly a {
+            h1 {
+                font-size: 27vw !important;
+            }
+            h2 {
+                font-size: 5vw !important;
+            }
+        }
+        .glegoo-section .glegoo h1 {
+            font-size: 2.141591em !important;
+        }
+        .noticia-text-section a h1 {
+            font-size: 2.5rem !important;
+        }
+        .gudea-source-sans-pro-section {
+            .gudea {
+                display: block !important;
+                width: 100% !important
+            }
+            .source-sans-pro {
+                display: block !important;
+                width: 100% !important;
+            }
+        }
+        .rokkitt-section .rokkitt a {
+            h2 {
+                font-size: 14vw !important;
+            }
+            h3 {
+                font-size: 3.4vw !important;
+            }
+            .font-size-author {
+                font-size: 5.5vw !important;
+            }
+            h4 {
+                font-size: 3vw !important;
+            }
+            .spacing {
+                margin-bottom: 5% !important;
+            }
+            .double-spacing {
+                margin-bottom: 12% !important;
+            }
         }
     }
 }
