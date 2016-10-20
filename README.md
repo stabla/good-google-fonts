@@ -21,7 +21,7 @@ A website with bad font will be ugly website. But it's about words too.
 It's not an univeral rule, but take care of what font you're using. 
 
 #### Ressources used :
-- http://hellohappy.org/beautiful-web-type/
+- http://chad.is/beautiful-web-type
 - http://sachagreif.com/more-google-webfonts-that-dont-suck/
 
 ## List of fonts :
@@ -303,6 +303,6 @@ It's not an univeral rule, but take care of what font you're using.
         CSS : font-family: 'Vollkorn', serif;
 
 ## Notes
-* **: You can view these fonts already on [@ubuwaits](https://www.github.com/ubuwaits)'s project : [beautiful-web-type] (https://github.com/ubuwaits/beautiful-web-type). To check his samples : [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)*
+* **: You can view these fonts already on [@ubuwaits](https://www.github.com/ubuwaits)'s project : [beautiful-web-type] (https://github.com/ubuwaits/beautiful-web-type). To check his samples : [Beautiful Web Type](http://chad.is/beautiful-web-type)*
 
 For what's left, see here : https://idkn.github.io/good-google-fonts/
