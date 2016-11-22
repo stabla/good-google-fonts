@@ -2,7 +2,7 @@
 
 Inspired by [HackDesign](https://hackdesign.org) and [@ubuwaits](https://www.github.com/ubuwaits)'s project : [beautiful-web-type] (https://github.com/ubuwaits/beautiful-web-type)
 
-Good-google-fonts in action : https://idkn.github.io/good-google-fonts/ 
+Good-google-fonts in action : https://stabla.github.io/good-google-fonts/ 
 
 ### Definition 
   - Serif type has extensions or strokes on the ends of the letters.
@@ -305,4 +305,4 @@ It's not an univeral rule, but take care of what font you're using.
 ## Notes
 * **: You can view these fonts already on [@ubuwaits](https://www.github.com/ubuwaits)'s project : [beautiful-web-type] (https://github.com/ubuwaits/beautiful-web-type). To check his samples : [Beautiful Web Type](http://chad.is/beautiful-web-type)*
 
-For what's left, see here : https://idkn.github.io/good-google-fonts/
+For what's left, see here : https://stabla.github.io/good-google-fonts/
